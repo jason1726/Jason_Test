@@ -37,6 +37,12 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
+    <Reference Include="TWDCC.DAL">
+      <HintPath>..\..\IC4.0\NTWDCC\BLL\bin\Debug\TWDCC.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="TWDCC.Model">
+      <HintPath>..\..\IC4.0\NTWDCC\BLL\bin\Debug\TWDCC.Model.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
