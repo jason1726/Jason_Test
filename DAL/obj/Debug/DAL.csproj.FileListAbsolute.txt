@@ -1,7 +1,7 @@
 D:\Employee\DAL\bin\Debug\DAL.dll
 D:\Employee\DAL\bin\Debug\DAL.pdb
-D:\Employee\DAL\bin\Debug\TWDCC.Model.dll
-D:\Employee\DAL\bin\Debug\TWDCC.Model.pdb
 D:\Employee\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\Employee\DAL\obj\Debug\DAL.dll
 D:\Employee\DAL\obj\Debug\DAL.pdb
+D:\Employee\DAL\bin\Debug\Model.dll
+D:\Employee\DAL\bin\Debug\Model.pdb

@@ -26,12 +26,7 @@ D:\Employee\Employee\bin\System.Web.Razor.dll
 D:\Employee\Employee\bin\System.Web.WebPages.Deployment.dll
 D:\Employee\Employee\bin\System.Web.WebPages.dll
 D:\Employee\Employee\bin\System.Web.WebPages.Razor.dll
-D:\Employee\Employee\bin\TWDCC.BLL.dll
-D:\Employee\Employee\bin\TWDCC.DAL.dll
-D:\Employee\Employee\bin\TWDCC.Model.dll
 D:\Employee\Employee\bin\WebGrease.dll
-D:\Employee\Employee\bin\TWDCC.DBUtility.dll
-D:\Employee\Employee\bin\Sybase.Data.AseClient.dll
 D:\Employee\Employee\bin\System.Web.Helpers.xml
 D:\Employee\Employee\bin\System.Web.Mvc.xml
 D:\Employee\Employee\bin\System.Web.Optimization.xml
@@ -39,9 +34,6 @@ D:\Employee\Employee\bin\System.Web.Razor.xml
 D:\Employee\Employee\bin\System.Web.WebPages.xml
 D:\Employee\Employee\bin\System.Web.WebPages.Deployment.xml
 D:\Employee\Employee\bin\System.Web.WebPages.Razor.xml
-D:\Employee\Employee\bin\TWDCC.BLL.pdb
-D:\Employee\Employee\bin\TWDCC.DAL.pdb
-D:\Employee\Employee\bin\TWDCC.Model.pdb
 D:\Employee\Employee\bin\Antlr3.Runtime.pdb
 D:\Employee\Employee\bin\Newtonsoft.Json.xml
 D:\Employee\Employee\bin\EntityFramework.xml
@@ -58,7 +50,6 @@ D:\Employee\Employee\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Employee\Employee\bin\Microsoft.Owin.Security.Google.xml
 D:\Employee\Employee\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Employee\Employee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Employee\Employee\bin\TWDCC.DBUtility.pdb
 D:\Employee\Employee\bin\zh-Hant\System.Web.Helpers.resources.dll
 D:\Employee\Employee\bin\zh-Hant\System.Web.Mvc.resources.dll
 D:\Employee\Employee\bin\zh-Hant\System.Web.Optimization.resources.dll
@@ -78,6 +69,12 @@ D:\Employee\Employee\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
 D:\Employee\Employee\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
 D:\Employee\Employee\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
 D:\Employee\Employee\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-D:\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
 D:\Employee\Employee\obj\Debug\Employee.dll
 D:\Employee\Employee\obj\Debug\Employee.pdb
+D:\Employee\Employee\bin\BLL.dll
+D:\Employee\Employee\bin\DAL.dll
+D:\Employee\Employee\bin\Model.dll
+D:\Employee\Employee\bin\BLL.pdb
+D:\Employee\Employee\bin\DAL.pdb
+D:\Employee\Employee\bin\Model.pdb
+D:\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache

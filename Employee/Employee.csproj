@@ -93,15 +93,6 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
-    <Reference Include="TWDCC.BLL">
-      <HintPath>..\..\IC4.0\NTWDCC\BLL\bin\Debug\TWDCC.BLL.dll</HintPath>
-    </Reference>
-    <Reference Include="TWDCC.DAL">
-      <HintPath>..\..\IC4.0\NTWDCC\BLL\bin\Debug\TWDCC.DAL.dll</HintPath>
-    </Reference>
-    <Reference Include="TWDCC.Model">
-      <HintPath>..\..\IC4.0\NTWDCC\BLL\bin\Debug\TWDCC.Model.dll</HintPath>
-    </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
       <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
@@ -245,6 +236,20 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{f6e6d341-4c97-4551-8b41-a2ea20b29614}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{4ad8db20-ea2f-4e24-af08-cd1e22b1338a}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{337df5e6-f629-4830-a8b6-7b9d4531ad1d}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
